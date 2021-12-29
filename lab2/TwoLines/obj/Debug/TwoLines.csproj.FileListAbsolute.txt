@@ -1,0 +1,21 @@
+C:\Users\Admin\source\repos\TwoLines\TwoLines\bin\Debug\TwoLines.exe.config
+C:\Users\Admin\source\repos\TwoLines\TwoLines\bin\Debug\TwoLines.exe
+C:\Users\Admin\source\repos\TwoLines\TwoLines\bin\Debug\TwoLines.pdb
+C:\Users\Admin\source\repos\TwoLines\TwoLines\obj\Debug\TwoLines.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TwoLines\TwoLines\obj\Debug\TwoLines.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TwoLines\TwoLines\obj\Debug\TwoLines.exe
+C:\Users\Admin\source\repos\TwoLines\TwoLines\obj\Debug\TwoLines.pdb
+C:\Users\user\Downloads\TwoLines\TwoLines\TwoLines\bin\Debug\TwoLines.exe.config
+C:\Users\user\Downloads\TwoLines\TwoLines\TwoLines\bin\Debug\TwoLines.exe
+C:\Users\user\Downloads\TwoLines\TwoLines\TwoLines\bin\Debug\TwoLines.pdb
+C:\Users\user\Downloads\TwoLines\TwoLines\TwoLines\obj\Debug\TwoLines.csprojAssemblyReference.cache
+C:\Users\user\Downloads\TwoLines\TwoLines\TwoLines\obj\Debug\TwoLines.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\TwoLines\TwoLines\TwoLines\obj\Debug\TwoLines.exe
+C:\Users\user\Downloads\TwoLines\TwoLines\TwoLines\obj\Debug\TwoLines.pdb
+C:\Users\Dell7240\Desktop\crossplatform-programing-main\Лаба1.TwoLines. Келлер\TwoLines\TwoLines\bin\Debug\TwoLines.exe.config
+C:\Users\Dell7240\Desktop\crossplatform-programing-main\Лаба1.TwoLines. Келлер\TwoLines\TwoLines\bin\Debug\TwoLines.exe
+C:\Users\Dell7240\Desktop\crossplatform-programing-main\Лаба1.TwoLines. Келлер\TwoLines\TwoLines\bin\Debug\TwoLines.pdb
+C:\Users\Dell7240\Desktop\crossplatform-programing-main\Лаба1.TwoLines. Келлер\TwoLines\TwoLines\obj\Debug\TwoLines.csproj.AssemblyReference.cache
+C:\Users\Dell7240\Desktop\crossplatform-programing-main\Лаба1.TwoLines. Келлер\TwoLines\TwoLines\obj\Debug\TwoLines.csproj.CoreCompileInputs.cache
+C:\Users\Dell7240\Desktop\crossplatform-programing-main\Лаба1.TwoLines. Келлер\TwoLines\TwoLines\obj\Debug\TwoLines.exe
+C:\Users\Dell7240\Desktop\crossplatform-programing-main\Лаба1.TwoLines. Келлер\TwoLines\TwoLines\obj\Debug\TwoLines.pdb
