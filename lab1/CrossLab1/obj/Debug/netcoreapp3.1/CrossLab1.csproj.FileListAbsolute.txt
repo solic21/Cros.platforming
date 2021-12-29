@@ -1,0 +1,14 @@
+C:\Users\Dell7240\Desktop\CrossPlat-main\Cross_lab1\CrossLab1\CrossLab1\bin\Debug\netcoreapp3.1\CrossLab1.exe
+C:\Users\Dell7240\Desktop\CrossPlat-main\Cross_lab1\CrossLab1\CrossLab1\bin\Debug\netcoreapp3.1\CrossLab1.deps.json
+C:\Users\Dell7240\Desktop\CrossPlat-main\Cross_lab1\CrossLab1\CrossLab1\bin\Debug\netcoreapp3.1\CrossLab1.runtimeconfig.json
+C:\Users\Dell7240\Desktop\CrossPlat-main\Cross_lab1\CrossLab1\CrossLab1\bin\Debug\netcoreapp3.1\CrossLab1.runtimeconfig.dev.json
+C:\Users\Dell7240\Desktop\CrossPlat-main\Cross_lab1\CrossLab1\CrossLab1\bin\Debug\netcoreapp3.1\CrossLab1.dll
+C:\Users\Dell7240\Desktop\CrossPlat-main\Cross_lab1\CrossLab1\CrossLab1\bin\Debug\netcoreapp3.1\CrossLab1.pdb
+C:\Users\Dell7240\Desktop\CrossPlat-main\Cross_lab1\CrossLab1\CrossLab1\obj\Debug\netcoreapp3.1\CrossLab1.csproj.AssemblyReference.cache
+C:\Users\Dell7240\Desktop\CrossPlat-main\Cross_lab1\CrossLab1\CrossLab1\obj\Debug\netcoreapp3.1\CrossLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell7240\Desktop\CrossPlat-main\Cross_lab1\CrossLab1\CrossLab1\obj\Debug\netcoreapp3.1\CrossLab1.AssemblyInfoInputs.cache
+C:\Users\Dell7240\Desktop\CrossPlat-main\Cross_lab1\CrossLab1\CrossLab1\obj\Debug\netcoreapp3.1\CrossLab1.AssemblyInfo.cs
+C:\Users\Dell7240\Desktop\CrossPlat-main\Cross_lab1\CrossLab1\CrossLab1\obj\Debug\netcoreapp3.1\CrossLab1.csproj.CoreCompileInputs.cache
+C:\Users\Dell7240\Desktop\CrossPlat-main\Cross_lab1\CrossLab1\CrossLab1\obj\Debug\netcoreapp3.1\CrossLab1.dll
+C:\Users\Dell7240\Desktop\CrossPlat-main\Cross_lab1\CrossLab1\CrossLab1\obj\Debug\netcoreapp3.1\CrossLab1.pdb
+C:\Users\Dell7240\Desktop\CrossPlat-main\Cross_lab1\CrossLab1\CrossLab1\obj\Debug\netcoreapp3.1\CrossLab1.genruntimeconfig.cache
