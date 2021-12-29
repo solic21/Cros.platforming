@@ -1,4 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Source.cpp
-C:\Users\Dell7240\Desktop\Project1\Project5\Source.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
-  Project5.vcxproj -> C:\Users\Dell7240\Desktop\Project1\Debug\Project1.exe
