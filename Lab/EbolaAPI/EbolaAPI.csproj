@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="sample\appsettings.inmemory" />
+    <None Remove="sample\appsettings.postgresql" />
+    <None Remove="sample\appsettings.sqlite" />
+    <None Remove="sample\appsettings.sqlserver" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="sample\appsettings.inmemory" />
+    <Content Include="sample\appsettings.postgresql" />
+    <Content Include="sample\appsettings.sqlite" />
+    <Content Include="sample\appsettings.sqlserver" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EbolaApi.Core\EbolaApi.Core.csproj" />
+    <ProjectReference Include="..\EbolaApi.InMemory\EbolaApi.InMemory.csproj" />
+    <ProjectReference Include="..\EbolaApi.MsSql\EbolaApi.SqlServer.csproj" />
+    <ProjectReference Include="..\EbolaApi.PostgreSql\EbolaApi.PostgreSql.csproj" />
+    <ProjectReference Include="..\EbolaApi.SqLite\EbolaApi.SqLite.csproj" />
+  </ItemGroup>
+
+</Project>
