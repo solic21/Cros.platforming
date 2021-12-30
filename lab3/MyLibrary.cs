@@ -50,32 +50,5 @@ namespace lab3
                 }
             }
         }
-        public static void PrintArr(int[,] arr)
-        {
-            for (int i = 0; i < arr.GetUpperBound(0) + 1; i++)
-            {
-                for (int j = 0; j < arr.GetUpperBound(1) + 1; j++)
-                {
-                    Console.Write(arr[i, j] + " ");
-                }
-                Console.WriteLine();
-            }
-        }
-
-        public static string ArrayToString(int[,] arr)
-        {
-            string result = "";
-
-            for (int i = 0; i < arr.GetUpperBound(0) + 1; i++)
-            {
-                for (int j = 0; j < arr.GetUpperBound(1) + 1; j++)
-                {
-                    result += arr[i, j] + " ";
-                }
-                result += "\n";
-            }
-
-            return result;
-        }
     }
 }
