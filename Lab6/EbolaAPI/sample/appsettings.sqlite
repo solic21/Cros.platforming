@@ -1,0 +1,15 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "Database": {
+    "Type": "Sqlite",
+    "ConnectionString": "Data Source=CarServiceCenter.db",
+    "RunMigration": true
+  }
+}
