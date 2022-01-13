@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Ivanenko Ivan")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Shtatskyi Mykyta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.10.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.10")]
