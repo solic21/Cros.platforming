@@ -1,0 +1,35 @@
+﻿@model LabWork_5.Models.Lab2Model
+@{ ViewData["Title"] = "PR2"; }
+<h1>@ViewData["Title"]</h1>
+<h3>
+    На вершине лесенки, содержащей N ступенек, находится мячик, который начинает прыгать по ним вниз, к основанию. Мячик может прыгнуть на следующую ступеньку, на ступеньку через одну или через две. То есть, если мячик лежит на 8-ой ступеньке, то он может переместиться на 5-ую, 6-ую или 7-ую.
+    Требуется написать программу, которая определит число всевозможных "маршрутов" мячика с вершины на землю.
+</h3>
+
+<form method="post" enctype="multipart/form-data" asp-controller="Labs" asp-action="PR2">
+    <div class="form-group">
+        <label for="pdata">Data</label>
+        <input type="text" class="form-control" id="pdata" asp-for="Data">
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Submit</button>
+</form>
+
+@if (Model != null)
+            {
+<div class="container mt-5">
+    @if (Model.Calculated)
+    {
+        <div class="row">
+            <label for="presponse">Response</label>
+            <input type="text" id="presponse" value="@Model.Response">
+        </div>
+    }
+    @if (!String.IsNullOrEmpty(Model.ErrorValue))
+    {
+        <div class="row">
+            <label for="perror">Response</label>
+            <input type="text" id="perror" value="@Model.ErrorValue">
+        </div>
+    }
+</div>
+}

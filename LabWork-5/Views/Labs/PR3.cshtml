@@ -1,0 +1,35 @@
+﻿@model LabWork_5.Models.Lab3Model
+@{ ViewData["Title"] = "PR3"; }
+<h1>@ViewData["Title"]</h1>
+<h3>
+    Произошло радиоактивное заражение местности. Составлена карта зараженности. Она представляет собой прямоугольную таблицу N×M, в клетках которой записана зараженность соответствующего участка.
+    Требуется написать программу, которая найдет путь из левой верхней клетки таблицы в правую нижнюю клетку с минимальной суммарной дозой радиации.
+</h3>
+
+<form method="post" enctype="multipart/form-data" asp-controller="Labs" asp-action="PR3">
+    <div class="form-group">
+        <label for="pdata">Data</label>
+        <textarea asp-for="Data" class="form-control"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Submit</button>
+</form>
+
+@if (Model != null)
+            {
+<div class="container mt-5">
+    @if (Model.Calculated)
+    {
+        <div class="row">
+            <label for="presponse">Response</label>
+            <input type="text" id="presponse" value="@Model.Response">
+        </div>
+    }
+    @if (!String.IsNullOrEmpty(Model.ErrorValue))
+    {
+        <div class="row">
+            <label for="perror">Response</label>
+            <input type="text" id="perror" value="@Model.ErrorValue">
+        </div>
+    }
+</div>
+}
