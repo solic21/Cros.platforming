@@ -3,7 +3,7 @@
   <metadata>
     <id>CrossPlatform-lab4</id>
     <version>0.0.10</version>
-    <authors>Ivanenko Ivan</authors>
+    <authors>Shtatskyi Mykyta</authors>
     <description>Package Description</description>
     <packageTypes>
       <packageType name="DotnetTool" />
